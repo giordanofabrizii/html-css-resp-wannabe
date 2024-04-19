@@ -138,7 +138,7 @@ img {
         flex-direction: column;
     }
 
-    .lessons .col,{
+    .lessons .col, .steps .col{
         width: 100%;
         margin-bottom: 3rem;
     }
