@@ -138,8 +138,19 @@ img {
         flex-direction: column;
     }
 
-    .lessons .col, .steps .col{
-        width: 100%;
+    .lessons .col, .steps .col, .why-us .col-right,.why-us .col-left{
+        margin:0 auto;
+        width: 92%;
         margin-bottom: 3rem;
+    }
+
+    .why-us {
+        background-color: rgb(34, 34, 34);
+        padding-top: 3rem;
+        margin-bottom: 0;
+    }
+
+    .steps{
+        margin-bottom: 0;
     }
 }
